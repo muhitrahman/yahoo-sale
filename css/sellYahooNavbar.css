@@ -1,0 +1,60 @@
+
+
+
+body{
+    padding-top: 20px;
+/*
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+*/
+}
+.nav-justified{
+    background-color: darkgoldenrod;
+    border-radius: 5px;
+/*    border: 1px solid black;*/
+}
+.nav-justified > li > a{
+    padding: 5px 0;
+    color: maroon;
+    text-align: center;
+}
+.jumbotron{
+    text-align: center;
+    background-color: transparent
+}
+.jumbotron .btn{
+    padding: 15px 25px;
+    font-size: 25px;
+/*    scroll-snap-align: start;*/
+}
+.cent{
+    text-align: center;
+}
+/*
+.jumbotron{
+     scroll-snap-align: start;
+    height: 100vh;
+}
+.nav{
+     scroll-snap-align: start;
+    height: 100vh;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
